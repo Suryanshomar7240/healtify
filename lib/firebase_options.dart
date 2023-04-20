@@ -47,32 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB3vfG0mrND01mAOC4OZ0pOwTQdgVjwJOs',
-    appId: '1:131647123287:web:a351efe36bd16bf9d89812',
-    messagingSenderId: '131647123287',
-    projectId: 'health-app-99603',
-    authDomain: 'health-app-99603.firebaseapp.com',
-    databaseURL: 'https://health-app-99603-default-rtdb.firebaseio.com',
-    storageBucket: 'health-app-99603.appspot.com',
+    apiKey: 'AIzaSyDb3zfeEUbmY43GO3y3nTlZZ1lXobQwyzQ',
+    appId: '1:733428326901:web:5f2148441d0769b22dc0bc',
+    messagingSenderId: '733428326901',
+    projectId: 'healtify-f504d',
+    authDomain: 'healtify-f504d.firebaseapp.com',
+    storageBucket: 'healtify-f504d.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCv28h-Zp2q-bw1AhiPT0-rtVvM-9LBFQI',
-    appId: '1:131647123287:android:d9d8893b246e5f78d89812',
-    messagingSenderId: '131647123287',
-    projectId: 'health-app-99603',
-    databaseURL: 'https://health-app-99603-default-rtdb.firebaseio.com',
-    storageBucket: 'health-app-99603.appspot.com',
+    apiKey: 'AIzaSyBeiGrrJRsg2_JheULja7CFnFhLqpSXMMQ',
+    appId: '1:733428326901:android:3ec914ee5af6fb3f2dc0bc',
+    messagingSenderId: '733428326901',
+    projectId: 'healtify-f504d',
+    storageBucket: 'healtify-f504d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB45rGly5QSTN-jF4qez-GSyB0U8G6WD8M',
-    appId: '1:131647123287:ios:db03c51f647df00dd89812',
-    messagingSenderId: '131647123287',
-    projectId: 'health-app-99603',
-    databaseURL: 'https://health-app-99603-default-rtdb.firebaseio.com',
-    storageBucket: 'health-app-99603.appspot.com',
-    iosClientId: '131647123287-bs4vp3qrgi8cqnt1rg26nhjtfa0d2qj9.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDtA0i0jFWDQhLi1CVs1hcN2rqSo6p4p2I',
+    appId: '1:733428326901:ios:448e423a3cb729c02dc0bc',
+    messagingSenderId: '733428326901',
+    projectId: 'healtify-f504d',
+    storageBucket: 'healtify-f504d.appspot.com',
+    iosClientId: '733428326901-upcg6rcp2t6cs5g9n2u4j5tbv2hjjnoo.apps.googleusercontent.com',
     iosBundleId: 'com.example.healthApp',
   );
 }
